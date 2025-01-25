@@ -20,7 +20,7 @@ const client = new Client({
   ]
 });
 
-const CHANNEL_ID = 1332808818169610291 'ID_Twojego_Kanału'; // Podaj ID swojego kanału
+const CHANNEL_ID = 1332808818169610291
 
 client.once('ready', () => {
   console.log('Bot is ready!');
